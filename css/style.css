@@ -130,8 +130,14 @@ img {
 
  @media screen and (max-width: 768px) {
 
-    h1 {
-        text-align: center;
+    .container {
+        width: auto;
     }
+
+}
+
+@media screen and (max-width: 480px) {
+
+
 }
 
